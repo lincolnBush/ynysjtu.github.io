@@ -22,6 +22,12 @@ I obtained PhD from University of Cambridge. My current research interests inclu
 
 **Nanyang Ye**, Jingxuan Tang, Huayu Deng, Xiao-Yun Zhou, Qianxiao Li, Zhenguo Li, Guang-Zhong Yang, Zhanxing Zhu. Adversarial Invariant Learning. *IEEE Conference on Computer Vision and Pattern Recognition 2021 (CVPR 2021)*.
 
+
+Linfeng Cao, Aofan Jiang, Wei Li, Huaying Wu, **Nanyang Ye\***. OoDHDR-codec: Out-of-Distribution Generalization for HDR Image Compression. *AAAI Conference on Aritificial Intelligence 2022 (AAAI 2022)*. (\* Corresponding author)
+
+
+Runpeng Yu, Hong Zhu, Kaican Li, Lanqing Hong, Rui Zhang*, **Nanyang Ye\***, Shao-Lun Huang, Xiuqiang He. Regularization Penalty Optimization for Addressing Data Quality Variance in OoD Algorithms. *AAAI Conference on Aritificial Intelligence 2022 (AAAI 2022)*. (\* Corresponding author)
+
 Haoyue Bai, Rui Sun, Lanqing Hong, Fengwei Zhou, **Nanyang Ye\***, Han-Jia Ye, Gary Chan, Zhenguo Li. DecAug: Out-of-Distribution Generalization via Decomposed Feature Representation and Semantic Augmentation. *AAAI Conference on Artificial Intelligence (AAAI 2021)*. (\* Corresponding author)
 
 Haoyue Bai, Fengwei Zhou, Lanqing Hong, **Nanyang Ye\***, S.-H. Gary Chan, Zhenguo Li. NAS-OoD: Neural Architecture Search for Out-of-Distribution Generalization. *International Conference on Computer Vision 2021 (ICCV 2021)*. (\* Corresponding author) 
